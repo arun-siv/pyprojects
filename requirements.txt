@@ -1,0 +1,9 @@
+pylint
+pytest
+black
+pytest-cov
+oci
+pandas
+fastapi
+uvicorn
+requests
