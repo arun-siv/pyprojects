@@ -4,6 +4,8 @@ black
 pytest-cov
 oci
 pandas
+numpy
 fastapi
 uvicorn
 requests
+streamlit
